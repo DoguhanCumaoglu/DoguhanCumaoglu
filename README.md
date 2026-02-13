@@ -6,9 +6,9 @@
   <img src="assets/welcome.gif" width="520px" />
 </p>
 
-<p align="center">
-Building scalable systems with FastAPI, Neo4j & Kubernetes.
-</p>
+<h3 align="center">
+Designing scalable backend systems & graph-driven architectures.
+</h3>
 
 ---
 
