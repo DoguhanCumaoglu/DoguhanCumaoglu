@@ -5,7 +5,7 @@
 <h1 align="center">Doğuhan Cumaoglu</h1>
 
 <p align="center">
-Backend Engineer • Cloud Native Developer • Graph Enthusiast
+Backend Engineer • Cloud Native Developer
 </p>
 
 <p align="center">
