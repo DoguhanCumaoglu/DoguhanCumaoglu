@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70BE6&duration=5300&lines=Welcome+to+my+GitHub+Profile;Always+learning+new+things)](https://git.io/typing-svg)
+<p align="center">
+  <img src="assets/welcome.gif" width="650px" />
+</p>
 ### 🧰 Languages and Tools:
 
 <img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/72949926/151268984-9d5fdd5b-da6a-4591-a44b-f670f5239509.png" />
