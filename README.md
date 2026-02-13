@@ -2,15 +2,14 @@
   <img src="assets/welcome.gif" width="520px" />
 </p>
 
-<h1 align="center">Hi, I'm Doğuhan 👋</h1>
-
-<h3 align="center">
-Backend Engineer • Cloud Native Developer
-</h3>
+<h1 align="center">Doğuhan Cumaoglu</h1>
 
 <p align="center">
-Building scalable backend systems with FastAPI, Neo4j & Kubernetes.<br>
-Passionate about clean architecture, DevOps and distributed systems.
+Backend Engineer • Cloud Native Developer • Graph Enthusiast
+</p>
+
+<p align="center">
+Building scalable systems with FastAPI, Neo4j & Kubernetes.
 </p>
 
 ---
@@ -18,39 +17,30 @@ Passionate about clean architecture, DevOps and distributed systems.
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,neo4j,docker,kubernetes,aws,git,linux,vscode,azure,java" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,neo4j,docker,kubernetes,aws,git,linux" />
 </p>
 
 ---
 
-## 🧠 What I Work On
+## ⚡ Focus
 
-- 🔹 Designing scalable backend architectures  
-- 🔹 Cloud-native deployments on AWS & Azure
-- 🔹 Kubernetes & container orchestration  
-- 🔹 DevOps automation & CI/CD pipelines  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoguhanCumaoglu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DoguhanCumaoglu&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+- Scalable backend architecture  
+- Graph data modeling  
+- Cloud-native deployments  
+- DevOps & automation  
 
 ---
 
-## 🌍 Connect With Me
+## 📬 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/doğuhan-cumaoğlu-5b09861b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Always learning. Always building.”</i>
+  <i>Always learning. Always building.</i>
 </p>
