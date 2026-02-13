@@ -1,18 +1,57 @@
 <p align="center">
-  <img src="assets/welcome.gif" width="650px" />
+  <img src="assets/welcome.gif" width="520px" />
 </p>
-### 🧰 Languages and Tools:
 
-<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/72949926/151268984-9d5fdd5b-da6a-4591-a44b-f670f5239509.png" />
-<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/72949926/151269092-b6336f4f-6cf3-4141-8dc8-a2c1665286f0.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/72949926/151269121-85576a35-7293-4a85-ae44-381c0b847c16.png" />
-<img align="left" alt="SQl" width="26px" src="https://user-images.githubusercontent.com/72949926/151269139-f61b409b-8a7e-4a4a-bb4f-1145e458b8cc.png"/>
-<img align="left" alt="MongoDb" width="65px" src="https://user-images.githubusercontent.com/72949926/151269554-e0554df6-a91c-4f5a-b860-7b846e224250.png"/>
-<br />
+<h1 align="center">Hi, I'm Doğuhan 👋</h1>
 
-## ✉️ To contact me :
-<a href="https://www.linkedin.com/in/doğuhan-cumaoğlu-5b09861b6/" target="_blank" rel="noopener noreferrer"> <img src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-Download-PNG.png" alt="Python" height="33" style="vertical-align:top; margin:4px"></a>
+<h3 align="center">
+Backend Engineer • Graph Architect • Cloud Native Developer
+</h3>
 
+<p align="center">
+Building scalable backend systems with FastAPI, Neo4j & Kubernetes.<br>
+Passionate about clean architecture, DevOps and distributed systems.
+</p>
 
+---
 
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,neo4j,docker,kubernetes,aws,git,linux,vscode" />
+</p>
+
+---
+
+## 🧠 What I Work On
+
+- 🔹 Designing scalable backend architectures  
+- 🔹 Graph-based data modeling with Neo4j  
+- 🔹 Cloud-native deployments on AWS  
+- 🔹 Kubernetes & container orchestration  
+- 🔹 DevOps automation & CI/CD pipelines  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DoguhanCumaoğlu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DoguhanCumaoğlu&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/doğuhan-cumaoğlu-5b09861b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Always learning. Always building.”</i>
+</p>
