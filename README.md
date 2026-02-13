@@ -2,7 +2,7 @@
   <img src="assets/welcome.gif" width="520px" />
 </p>
 
-<h1 align="center">Doğuhan Cumaoglu</h1>
+<h1 align="center">Doguhan Cumaoglu</h1>
 
 <p align="center">
 Backend Engineer • Cloud Native Developer
