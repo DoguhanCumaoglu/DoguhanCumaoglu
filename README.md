@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="assets/welcome.gif" width="520px" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=500&lines=$+whoami;doguhan;cumaoglu;backend+engineer" />
 </p>
 
-<h1 align="center">Doguhan Cumaoglu</h1>
-
 <p align="center">
-Backend Engineer • Cloud Native Developer
+  <img src="assets/welcome.gif" width="520px" />
 </p>
 
 <p align="center">
@@ -17,17 +15,8 @@ Building scalable systems with FastAPI, Neo4j & Kubernetes.
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,neo4j,docker,kubernetes,aws,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,neo4j,docker,kubernetes,aws,azure,git,linux,java,keycloak" />
 </p>
-
----
-
-## ⚡ Focus
-
-- Scalable backend architecture  
-- Graph data modeling  
-- Cloud-native deployments  
-- DevOps & automation  
 
 ---
 
@@ -37,10 +26,4 @@ Building scalable systems with FastAPI, Neo4j & Kubernetes.
   <a href="https://www.linkedin.com/in/doğuhan-cumaoğlu-5b09861b6/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>Always learning. Always building.</i>
 </p>
