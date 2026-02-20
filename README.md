@@ -15,7 +15,7 @@ Designing scalable backend systems & graph-driven architectures.
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,neo4j,docker,kubernetes,aws,azure,git,linux,java,keycloak" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,neo4j,docker,kubernetes,aws,azure,git,linux,java,keycloak,celery,argocd" />
 </p>
 
 ---
